@@ -23,17 +23,17 @@ And optional (just install missing dependencies):
 * Sass/SCSS - `npm i node-sass sass-loader --save`
 * Surge - `npm i surge -g`
 
-__Also take a look [here](http://github.com/werein/react-native) for also extremely simple React Native boilerplate__
+__Also take a look [here](https://github.com/dreamworld1101/werein-react.git) for also extremely simple React Native boilerplate__
 
 ## Flow
 
-There is a version with `flow` enabled, since everyone is using it these days and quite a lot of libraries has direct support, I've also created a branch where `flow` is supported. This setup allows you for example to see an action and theirs data in correctly in reducers switch statement, doesn't let you to dispatch and undefined action or to see state in a `mapStateToProp`. Please thumbs up or don't in a PR for merge: https://github.com/werein/react/pull/52
+There is a version with `flow` enabled, since everyone is using it these days and quite a lot of libraries has direct support, I've also created a branch where `flow` is supported. This setup allows you for example to see an action and theirs data in correctly in reducers switch statement, doesn't let you to dispatch and undefined action or to see state in a `mapStateToProp`. Please thumbs up or don't in a PR for merge: https://github.com/dreamworld1101/werein-react.git/pull/52
 
 ## Installation
 
 All you need to do is clone this repository
 ```
-git clone https://github.com/werein/react.git
+git clone https://github.com/dreamworld1101/werein-react.git
 ```
 
 ### Keep it up to date
@@ -41,7 +41,7 @@ git clone https://github.com/werein/react.git
 Track this repo
 
 ```
-git remote add upstream https://github.com/werein/react.git
+git remote add upstream https://github.com/dreamworld1101/werein-react.git
 ```
 
 Get the latest version and apply onto your stack
